@@ -1,0 +1,16 @@
+{
+  "name": "real-estate-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Justin Lawson",
+  "license": "ISC",
+  "dependencies": {
+    "angular": "^1.5.0",
+    "jade": "^1.11.0",
+    "sockets": "^0.4.2"
+  }
+}
